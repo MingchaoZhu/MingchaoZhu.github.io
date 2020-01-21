@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About Cao Yixuan"
+title: "About Zhu Mingchao"
 permalink: /
 author_profile: true
 redirect_from:
@@ -14,9 +14,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Traffic Engineering, Tongji University, 2015
-* Ph.D in CS, University of Chinese Academy of Sciences (Institute of Computing Technology, CAS), 2020 (expected)
-
+* M.S. in CS, Fudan University, 2018
 
 Publications
 ======
