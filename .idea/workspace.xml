@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd63d7f1-16ee-4c12-9f0b-a41880db6d61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CIKM-19-nested-RE.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WWW-18-report-0420.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2019-09-27-paper-title-number-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/CIKM-19-nested-RE.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/CIKM2019-nested-relation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/WWW-18-report-0420.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/WWW2018-formula-extraction.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579577789023</updated>
-      <workItem from="1579577790332" duration="2024000" />
+      <workItem from="1579577790332" duration="2211000" />
     </task>
     <servers />
   </component>
